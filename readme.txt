@@ -1,2 +1,2 @@
-A new file for learning git.
-NOTHING TO SAY.
+Git is a distributed version control system.
+Git is free software.
